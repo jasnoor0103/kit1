@@ -1,0 +1,12 @@
+*{
+    background-color: rgb(175, 207, 238);
+  text-align: center;
+  
+  
+}
+.ending {
+  
+    
+    display: flex ;
+    justify-content: flex-start;
+ text-align: center ; }
